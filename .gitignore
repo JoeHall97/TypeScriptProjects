@@ -7,6 +7,9 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# compiled JS files
+build/*
+
 # Annotations notes folder
 Annotation/
 
