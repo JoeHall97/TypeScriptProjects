@@ -10,6 +10,9 @@ lerna-debug.log*
 # compiled JS files
 build/*
 
+# Compiled js files
+*.js
+
 # Annotations notes folder
 Annotation/
 
